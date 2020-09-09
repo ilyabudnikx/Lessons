@@ -7,7 +7,7 @@ public static void Main(string[] args)
         {
             //Создали объект класса Student
             Student s1 = new Student();
-            s1.Name = "Jenny";
+            Console.ReadLine(s1.Name);
 
             //Создали новый объект с тем же именем
             Student s2 = new Student();
